@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Harpal
 
-## 💻 Software Engineer | 🌱 Continuous Learner | Technical Writer
+## 💻 Software Engineer
 
-I'm a passionate software engineer with over 5 years of experience, specializing in Java and Spring Boot development.
+I'm a software engineer specializing in Java and Spring Boot development.
 
 ### 📈 GitHub Stats
 <div>
